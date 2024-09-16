@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rajneesh-kumar
-- 👀 I’m interested in Data Science,Machine Learning and frontend developer
-- 🌱 I’m currently learning Gen AI with advanced machine learning
-
+- 👀 I’m interested in Data Science,Machine Learning and Cloud computing.
+- 🌱 I’m currently learning Gen AI and Machine learning.
 - 📫 How to reach me ...Whatsapp 7480997648
 
 
